@@ -1,0 +1,5 @@
+{
+    "mongoUri" : "mongodb+srv://tamij_mongo:tamij123456@mongotut-tvuqm.mongodb.net/VueAppDB?retryWrites=true&w=majority",
+    "jwtSecret" : "mySecretKey"
+}
+
